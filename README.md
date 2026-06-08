@@ -2,7 +2,7 @@
 **Universidad de Cartagena**
 
 📚 Curso: Programadores para la Paz
-👤 Estudiante: [Tu nombre completo aquí]
+👤 Estudiante: Yenifer Paola Alvarez peña 
 📅 Semana 1: Introducción a Git y GitHub
 
 ## 🎯 Propósito
